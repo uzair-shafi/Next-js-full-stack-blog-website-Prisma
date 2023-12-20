@@ -1,3 +1,14 @@
+A complete blog website where users can add their posts and read articles of others with adding comments functionality. A user can sign in through google and write posts using built in post editor within specific categories. Each category has separate page fetching posts of only that category. Use of pagination for blogs component and dark/Light Modes for enhaced user experience. Built on Nextjs and prisma.
+
+
+![1e4e1748-9375-418f-ad96-767da11a166d](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/0c47d232-4702-4163-a933-e633cf477a7f)
+![3cc4d60e-1392-4d18-9455-2d5764445f78](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/84df02ca-393c-4432-93b9-06c37bdb9a1c)
+![efb7b3b1-cbbf-4669-80dc-e80b962a0a57](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/10b9c43e-3a99-4314-a062-a71e81eeb428)
+![7da3afc7-aea4-48e7-b090-c818ba94fea0](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/d9b65ae8-5378-4297-9cc5-37d330946560)
+![efb7b3b1-cbbf-4669-80dc-e80b962a0a57](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/e841de9e-1958-45cc-9c30-8ff6808b0808)
+![37821ba4-caf6-4699-8546-85e626afdc35](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/395d06a8-23e7-4291-b654-889f9ef801d1)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
