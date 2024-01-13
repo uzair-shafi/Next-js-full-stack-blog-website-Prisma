@@ -4,7 +4,8 @@ A complete blog website where users can add their posts and read articles of oth
 ![1e4e1748-9375-418f-ad96-767da11a166d](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/0c47d232-4702-4163-a933-e633cf477a7f)
 
 
-![3cc4d60e-1392-4d18-9455-2d5764445f78](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/84df02ca-393c-4432-93b9-06c37bdb9a1c)
+![2a58dc59-37af-485a-a06e-eb01097e7809](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/a045b040-0272-4ca4-8878-0ce090c4c948)
+
 
 
 ![efb7b3b1-cbbf-4669-80dc-e80b962a0a57](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/10b9c43e-3a99-4314-a062-a71e81eeb428)
