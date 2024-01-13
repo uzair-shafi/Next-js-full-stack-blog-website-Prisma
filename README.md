@@ -1,7 +1,6 @@
 A complete blog website where users can add their posts and read articles of others with adding comments functionality. A user can sign in through google and write posts using built in post editor within specific categories. Each category has separate page fetching posts of only that category. Use of pagination for blogs component and dark/Light Modes for enhaced user experience. Built on Nextjs and prisma.
 
 
-![1e4e1748-9375-418f-ad96-767da11a166d](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/0c47d232-4702-4163-a933-e633cf477a7f)
 
 
 ![2a58dc59-37af-485a-a06e-eb01097e7809](https://github.com/uzair-shafi/Next-js-full-stack-blog-website-Prisma/assets/106249514/a045b040-0272-4ca4-8878-0ce090c4c948)
